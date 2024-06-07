@@ -27,7 +27,7 @@ function update($table, $data, $condition) {
 $data = [
     'jenis_kelamin' => '$jenis_kelamin',
     'nama' => '$nama',
-    'alamat' => '$alamat'
+    'alamat' => '$alamats'
 ];
 
 $condition = [
